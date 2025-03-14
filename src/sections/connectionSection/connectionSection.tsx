@@ -6,7 +6,7 @@ const ConnectionsSection = () => {
         <h2 className="text-3xl font-bold font-quattrocento text-gray-900">Stay Connected</h2>
         <p className="mt-2 text-gray-600 max-w-2xl mx-auto">
           Subscribe to our newsletter to stay up-to-date on the latest JournAI features, community updates, and 
-          inspirational content to fuel your journ...
+          inspirational content to fuel your journey...
         </p>
   
         <div className="mt-10 flex flex-col md:flex-row items-center justify-center gap-10">
